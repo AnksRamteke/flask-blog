@@ -1,0 +1,27 @@
+{
+
+"params":
+
+{
+ "local_server":"True",
+ "local uri":  "mysql://root:@localhost/codingthunder",
+ "prod uri" : "mysql://root:@localhost/codingthunder",
+ "fb_url" : "https://facebook.com/coadingthunder",
+ "tw_url" : "https://twitter.com/coadingthunder",
+ "gh_url" : "https://github.com/coadingthunder",
+ "blog_name" : "Coading Thunder" ,
+ "tag_line" : "heaven for programers" ,
+ "gmail-user":"your-email@gmail.com",
+ "gmail-password":"gmailpassword",
+ "about_text": "hi i m ankit,this blog is created by me ." ,
+ "no_of_posts": 2 ,
+ "login_image" : "login.svg" , 
+ "admin_user" : "anks",
+ "admin_password":"subscibenow" ,
+ "upload_location": "C:\\Users\\Laptop\\Desktop\\ANKS\\practice flask tuts\\static>"
+
+
+}
+
+
+}
